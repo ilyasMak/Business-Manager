@@ -1,0 +1,19 @@
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\bin\Debug\Gestion employés.exe.config
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\bin\Debug\Gestion employés.exe
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\bin\Debug\Gestion employés.pdb
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion employés.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion_employés.Properties.Resources.resources
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion employés.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion employés.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion employés.exe
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion employés.pdb
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion_employés.ES_ADM_GesCong.resources
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion_employés.ES_ADM_GesEmp.resources
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion_employés.ES_EMP_DmCong.resources
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion_employés.ES_EMP_Infos.resources
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion_employés.Authentif_Admin.resources
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion_employés.ES_ADM_TableBor.resources
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion_employés.Authentif_Emp.resources
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\bin\Debug\Entreprise.mdf
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\bin\Debug\Entreprise_log.ldf
+C:\Users\pc\Desktop\Gestion employés\Gestion employés\obj\Debug\Gestion_employés.GestionEntreprise.resources
